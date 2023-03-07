@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Cotiza tu seguro de viaje</title>
+</head>
+<body>
+        <div class="principal">
+            <div class="usuarioCorrecto" id="usuarioCorrecto"></div>  
+            <div id="loggin" class="loggin">
+                <form class="formLog" id="formLog">
+                    <div class="logInp">
+                        <label for="user">Usuario</label>
+                        <input class="inpLog" type="text" id="user">
+                    </div>
+                    <div class="logInp">
+                        <label for="pass">Password</label>
+                        <input class="inpLog" type="password" id="pass">
+                    </div>
+                    <button class="btnLog" id="btnLog">Ingresar</button>
+                </form>                    
+            </div>
+            <div id="tarjetaCliente"></div>
+            <div class="sldCot" id="sldCot">
+                <h2>Cotiza tu Seguro de viaje</h2>
+                <p >Completa el formulario y accederás a mis mejores propuestas</p>
+                <p >para que puedas tener el viaje de tus sueños</p>
+                <p >sin preocuparte por nada más</p>
+            </div>
+            <div class="form" id="formularioParaCliente">
+            <form id="formulario" class="formCot">
+                <div class="inputs">
+                    <label class="labels" for="nombre">Nombre Completo</label>
+                    <input id="nombre" class="inp" type="text" placeholder="Nombre completo" required>
+                </div>
+                <div class="inputs">
+                    <label class="labels" for="nacionalidad">Nacionalidad</label>
+                    <input id="nacionalidad" class="inp" type="text" placeholder="Nacionalidad" required>
+                </div>
+                <div class="inputs">
+                    <label class="labels" for="edad">Edad cumplida</label>
+                    <input id="edad" class="inp" type="text" placeholder="Edad cumplida" required>
+                </div>
+                <div class="inputs">
+                    <label class="labels" for="email">Email</label>
+                    <input id="email" class="inp" type="email" placeholder="Email" required>            
+                </div>
+                <div class="inputs">
+                    <label class="labels" for="telefono">Telefono</label>
+                    <input id="telefono" class="inp" type="text" placeholder="Teléfono de contacto (con código de área y país)" required>
+                </div>
+                <div class="inputs">
+                    <label class="labels" for="fechaIni">Fecha de inicio del viaje</label>
+                    <input class="inp" type="date" id="fechaIni" required>
+                </div>
+                <div class="inputs">
+                    <label class="labels" for="fechaFin">Fecha de finalización del viaje</label>
+                    <input class="inp" type="date" id="fechaFin" required>
+                </div>     
+                <div class="inputs">
+                    <label class="labels" for="destino">Que región o país visitará?</label>
+                    <select id="destino" required>
+                        <option hidden selected >Seleccione su destino</option>
+                        <option value="Europa">Europa</option>
+                        <option value="America del Norte">America del Norte</option>
+                        <option value="America del Sur">America del Sur</option>
+                        <option value="Asia">Asia</option>
+                        <option value="Africa">Africa</option>
+                        <option value="Oceania">Oceania</option>
+                        <option value="Caribe">Caribe</option>
+                        <option value="Turismo Interno">Turismo Interno(Solo para pasajeros argentinos)</option>
+                    </select>
+                </div>
+                
+                <div class="btnCTPrp">
+                    <button class="btnCT" id="btnCotizador">Solicitar Cotización</button>
+                </div>
+            </form>
+            </div>
+            <div id="contProd" class="contProd"></div>
+            <div id="prodFiltrados" class="contProd"></div>
+        </div>
+        
+    <script src="main.js"></script>
+</body>
+
+</html>

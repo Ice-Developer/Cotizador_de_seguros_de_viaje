@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Carga de productos</title>
+</head>
+<body>
+        <div class="principal">  
+            <div class="loggin" >
+                <form class="formLog" id="formLog">
+                    <div class="logInp">
+                        <input class="inpLog" type="text" id="buscar">
+                        <div class="btnCTPrp2">
+                            <button class="btnCT2">Busar Producto</button>
+                        </div>
+                    </div>
+                </form>
+                    <div class="logInp">
+                        <div class="btnCTPrp2">
+                            <button class="btnCT2">Cerrar Sesion</button>
+                        </div>
+                    </div>                      
+            </div>
+            <div class="form">
+            <form id="formCargaProductos" class="formCot">
+                <div class="inputs">
+                    <label class="labels" for="empresa">Empresa</label>
+                    <input id="empresa" class="inp" type="text"  required>
+                </div>
+                <div class="inputs">
+                    <label class="labels" for="nomProducto">Nombre del Producto</label>
+                    <input id="prodID" class="inp" type="text"  required>
+                </div>
+                <div class="inputs">
+                    <label class="labels" for="destCobertura">Destino</label>
+                    <select id="destCobertura" required>
+                        <option selected></option>
+                        <option value="Europa">Europa</option>
+                        <option value="America del Norte">America del Norte</option>
+                        <option value="America del Sur">America del Sur</option>
+                        <option value="Asia / Africa / Oceania">Asia / Africa / Oceania</option>
+                        <option value="Caribe">Caribe</option>
+                        <option value="Turismo Interno">Turismo Interno(Solo para pasajeros argentinos)</option>
+                    </select>
+                    </div>
+                <div class="inputs">
+                    <label class="labels" for="costPorDia">Costo por Dia</label>
+                    <input id="costPorDia" class="inp" type="text" placeholder="Costo por Dia" required>
+                </div>
+                <div class="btnCTPrp">
+                    <button class="btnCT">Agregar Producto</button>
+                </div>
+            </form>
+            </div>
+        </div>      
+        <script src="main.js"></script>
+</body>
+
+</html>
