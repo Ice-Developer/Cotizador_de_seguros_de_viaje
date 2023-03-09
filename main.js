@@ -286,6 +286,8 @@ const mostrarDetalle = (detalle) => {
     Swal.fire({
         confirmButtonText: false,
         imageUrl: detProd.detalle,
+        showCancelButton: false, 
+        showConfirmButton: false,
         backdrop: `
                 rgba(10, 48, 115, 0.44);
                     `,
