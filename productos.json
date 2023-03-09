@@ -1,0 +1,218 @@
+[
+{   
+    "id":1,
+    "empresa":"Tas",
+    "prodNom":"Plan Tas 1",
+    "destCober":"Europa",
+    "costPorDia":20,
+    "logo":"logos/tas_logo.webp",
+    "detalle":"/detalles/tas.jpeg"
+},
+{
+    "id":2,
+    "empresa":"Tas",
+    "prodNom":"Plan Tas 2",
+    "destCober":"America del Sur",
+    "costPorDia":30,
+    "logo":"logos/tas_logo.webp",
+    "detalle":"/detalles/tas.jpeg"
+},
+{
+    "id":3,
+    "empresa":"Tas",
+    "prodNom":"Plan Tas 3",
+    "destCober": "Asia",
+    "costPorDia":70,
+    "logo":"logos/tas_logo.webp",
+    "detalle":"/detalles/tas.jpeg"
+},
+{
+    "id":4,
+    "empresa":"Tas",
+    "prodNom":"Plan Tas 4",
+    "destCober":"America del Norte",
+    "costPorDia":60,
+    "logo":"logos/tas_logo.webp",
+    "detalle":"/detalles/tas.jpeg"
+},
+{
+    "id":5,
+    "empresa":"Tas",
+    "prodNom":"Plan Tas 5",
+    "destCober":"Africa",
+    "costPorDia":80,
+    "logo":"logos/tas_logo.webp",
+    "detalle":"/detalles/tas.jpeg"
+},
+{
+    "id":6,
+    "empresa":"Tas",
+    "prodNom":"Plan Tas 6",
+    "destCober":"Oceania",
+    "costPorDia":50,
+    "logo":"logos/tas_logo.webp",
+    "detalle":"/detalles/tas.jpeg"
+},
+{
+    "id":7,
+    "empresa":"Tas",
+    "prodNom":"Plan Tas 7",
+    "destCober":"Caribe",
+    "costPorDia":40,
+    "logo":"logos/tas_logo.webp",
+    "detalle":"/detalles/tas.jpeg"
+},
+{
+    "id":8,
+    "empresa":"Tas",
+    "prodNom":"Plan Tas 8",
+    "destCober":"Turismo Interno",
+    "costPorDia":10,
+    "logo":"logos/tas_logo.webp",
+    "detalle":"/detalles/tas.jpeg"
+},
+{
+    "id":9,
+    "empresa":"Assisto",
+    "prodNom":"Plan Assisto 1",
+    "destCober":"America del Norte",
+    "costPorDia":65,
+    "logo":"logos/Assisto_logo_.png",
+    "detalle":"/detalles/ASSISTO.jpeg"
+},
+{
+    "id":10,
+    "empresa":"Assisto",
+    "prodNom":"Plan Assisto 2",
+    "destCober":"Oceania",
+    "costPorDia":55,
+    "logo":"logos/Assisto_logo_.png",
+    "detalle":"/detalles/ASSISTO.jpeg"
+},
+{
+    "id":11,
+    "empresa":"Assisto",
+    "prodNom":"Plan Assisto 3",
+    "destCober":"Africa",
+    "costPorDia":85,
+    "logo":"logos/Assisto_logo_.png",
+    "detalle":"/detalles/ASSISTO.jpeg"
+},
+{
+    "id":12,
+    "empresa":"Assisto",
+    "prodNom":"Plan Assisto 4",
+    "destCober":"America del Sur",
+    "costPorDia":35,
+    "logo":"logos/Assisto_logo_.png",
+    "detalle":"/detalles/ASSISTO.jpeg"
+},
+{
+    "id":13,
+    "empresa":"Assisto",
+    "prodNom":"Plan Assisto 5",
+    "destCober":"Caribe",
+    "costPorDia":45,
+    "logo":"logos/Assisto_logo_.png",
+    "detalle":"/detalles/ASSISTO.jpeg"
+},
+{
+    "id":14,
+    "empresa":"Assisto",
+    "prodNom":"Plan Assisto 6",
+    "destCober": "Asia",
+    "costPorDia":75,
+    "logo":"logos/Assisto_logo_.png",
+    "detalle":"/detalles/ASSISTO.jpeg"
+},
+{
+    "id":15,
+    "empresa":"Assisto",
+    "prodNom":"Plan Assisto 7",
+    "destCober":"Europa",
+    "costPorDia":25,
+    "logo":"logos/Assisto_logo_.png",
+    "detalle":"/detalles/ASSISTO.jpeg"
+},
+{
+    "id":16,
+    "empresa":"Assisto",
+    "prodNom":"Plan Assisto 8",
+    "destCober":"Turismo Interno",
+    "costPorDia":15,
+    "logo":"logos/Assisto_logo_.png",
+    "detalle":"/detalles/ASSISTO.jpeg"
+},
+{
+    "id":17,
+    "empresa":"Assit Card",
+    "prodNom":"Plan Assist Card 1",
+    "destCober":"Europa",
+    "costPorDia":28,
+    "logo":"logos/assist_travel_logo.webp",
+    "detalle":"/detalles/assistravel.jpeg"
+},
+{
+    "id":18,
+    "empresa":"Assit Card",
+    "prodNom":"Plan Assist Card 2",
+    "destCober":"Oceania",
+    "costPorDia":58,
+    "logo":"logos/assist_travel_logo.webp",
+    "detalle":"/detalles/assistravel.jpeg"
+},
+{
+    "id":19,
+    "empresa":"Assit Card",
+    "prodNom":"Plan Assist Card 3",
+    "destCober":"America del Sur",
+    "costPorDia":38,
+    "logo":"logos/assist_travel_logo.webp",
+    "detalle":"/detalles/assistravel.jpeg"
+},
+{
+    "id":20,
+    "empresa":"Assit Card",
+    "prodNom":"Plan Assist Card 4",
+    "destCober":"America del Norte",
+    "costPorDia":68,
+    "logo":"logos/assist_travel_logo.webp",
+    "detalle":"/detalles/assistravel.jpeg"
+},
+{
+    "id":21,
+    "empresa":"Assit Card",
+    "prodNom":"Plan Assist Card 5",
+    "destCober":"Caribe",
+    "costPorDia":48,
+    "logo":"logos/assist_travel_logo.webp",
+    "detalle":"/detalles/assistravel.jpeg"
+},
+{
+    "id":22,
+    "empresa":"Assit Card",
+    "prodNom":"Plan Assist Card 6",
+    "destCober": "Asia",
+    "costPorDia":78,
+    "logo":"logos/assist_travel_logo.webp",
+    "detalle":"/detalles/assistravel.jpeg"
+},
+{
+    "id":23,
+    "empresa":"Assit Card",
+    "prodNom":"Plan Assist Card 7",
+    "destCober":"Africa",
+    "costPorDia":88,
+    "logo":"logos/assist_travel_logo.webp",
+    "detalle":"/detalles/assistravel.jpeg"
+},
+{
+    "id":24,
+    "empresa":"Assit Card",
+    "prodNom":"Plan Assist Card 8",
+    "destCober":"Turismo Interno",
+    "costPorDia":18,
+    "logo":"logos/assist_travel_logo.webp",
+    "detalle":"/detalles/assistravel.jpeg"
+}
+]
