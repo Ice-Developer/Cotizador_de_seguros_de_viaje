@@ -6,7 +6,7 @@
     "destCober":"Europa",
     "costPorDia":20,
     "logo":"logos/tas_logo.webp",
-    "detalle":"/detalles/tas.jpeg"
+    "detalle":"detalles/tas.jpeg"
 },
 {
     "id":2,
@@ -15,7 +15,7 @@
     "destCober":"America del Sur",
     "costPorDia":30,
     "logo":"logos/tas_logo.webp",
-    "detalle":"/detalles/tas.jpeg"
+    "detalle":"detalles/tas.jpeg"
 },
 {
     "id":3,
@@ -24,7 +24,7 @@
     "destCober": "Asia",
     "costPorDia":70,
     "logo":"logos/tas_logo.webp",
-    "detalle":"/detalles/tas.jpeg"
+    "detalle":"detalles/tas.jpeg"
 },
 {
     "id":4,
@@ -33,7 +33,7 @@
     "destCober":"America del Norte",
     "costPorDia":60,
     "logo":"logos/tas_logo.webp",
-    "detalle":"/detalles/tas.jpeg"
+    "detalle":"detalles/tas.jpeg"
 },
 {
     "id":5,
@@ -42,7 +42,7 @@
     "destCober":"Africa",
     "costPorDia":80,
     "logo":"logos/tas_logo.webp",
-    "detalle":"/detalles/tas.jpeg"
+    "detalle":"detalles/tas.jpeg"
 },
 {
     "id":6,
@@ -51,7 +51,7 @@
     "destCober":"Oceania",
     "costPorDia":50,
     "logo":"logos/tas_logo.webp",
-    "detalle":"/detalles/tas.jpeg"
+    "detalle":"detalles/tas.jpeg"
 },
 {
     "id":7,
@@ -60,7 +60,7 @@
     "destCober":"Caribe",
     "costPorDia":40,
     "logo":"logos/tas_logo.webp",
-    "detalle":"/detalles/tas.jpeg"
+    "detalle":"detalles/tas.jpeg"
 },
 {
     "id":8,
@@ -69,7 +69,7 @@
     "destCober":"Turismo Interno",
     "costPorDia":10,
     "logo":"logos/tas_logo.webp",
-    "detalle":"/detalles/tas.jpeg"
+    "detalle":"detalles/tas.jpeg"
 },
 {
     "id":9,
@@ -78,7 +78,7 @@
     "destCober":"America del Norte",
     "costPorDia":65,
     "logo":"logos/Assisto_logo_.png",
-    "detalle":"/detalles/ASSISTO.jpeg"
+    "detalle":"detalles/ASSISTO.jpeg"
 },
 {
     "id":10,
@@ -87,7 +87,7 @@
     "destCober":"Oceania",
     "costPorDia":55,
     "logo":"logos/Assisto_logo_.png",
-    "detalle":"/detalles/ASSISTO.jpeg"
+    "detalle":"detalles/ASSISTO.jpeg"
 },
 {
     "id":11,
@@ -96,7 +96,7 @@
     "destCober":"Africa",
     "costPorDia":85,
     "logo":"logos/Assisto_logo_.png",
-    "detalle":"/detalles/ASSISTO.jpeg"
+    "detalle":"detalles/ASSISTO.jpeg"
 },
 {
     "id":12,
@@ -105,7 +105,7 @@
     "destCober":"America del Sur",
     "costPorDia":35,
     "logo":"logos/Assisto_logo_.png",
-    "detalle":"/detalles/ASSISTO.jpeg"
+    "detalle":"detalles/ASSISTO.jpeg"
 },
 {
     "id":13,
@@ -114,7 +114,7 @@
     "destCober":"Caribe",
     "costPorDia":45,
     "logo":"logos/Assisto_logo_.png",
-    "detalle":"/detalles/ASSISTO.jpeg"
+    "detalle":"detalles/ASSISTO.jpeg"
 },
 {
     "id":14,
@@ -123,7 +123,7 @@
     "destCober": "Asia",
     "costPorDia":75,
     "logo":"logos/Assisto_logo_.png",
-    "detalle":"/detalles/ASSISTO.jpeg"
+    "detalle":"detalles/ASSISTO.jpeg"
 },
 {
     "id":15,
@@ -132,7 +132,7 @@
     "destCober":"Europa",
     "costPorDia":25,
     "logo":"logos/Assisto_logo_.png",
-    "detalle":"/detalles/ASSISTO.jpeg"
+    "detalle":"detalles/ASSISTO.jpeg"
 },
 {
     "id":16,
@@ -141,7 +141,7 @@
     "destCober":"Turismo Interno",
     "costPorDia":15,
     "logo":"logos/Assisto_logo_.png",
-    "detalle":"/detalles/ASSISTO.jpeg"
+    "detalle":"detalles/ASSISTO.jpeg"
 },
 {
     "id":17,
@@ -150,7 +150,7 @@
     "destCober":"Europa",
     "costPorDia":28,
     "logo":"logos/assist_travel_logo.webp",
-    "detalle":"/detalles/assistravel.jpeg"
+    "detalle":"detalles/assistravel.jpeg"
 },
 {
     "id":18,
@@ -159,7 +159,7 @@
     "destCober":"Oceania",
     "costPorDia":58,
     "logo":"logos/assist_travel_logo.webp",
-    "detalle":"/detalles/assistravel.jpeg"
+    "detalle":"detalles/assistravel.jpeg"
 },
 {
     "id":19,
@@ -168,7 +168,7 @@
     "destCober":"America del Sur",
     "costPorDia":38,
     "logo":"logos/assist_travel_logo.webp",
-    "detalle":"/detalles/assistravel.jpeg"
+    "detalle":"detalles/assistravel.jpeg"
 },
 {
     "id":20,
@@ -177,7 +177,7 @@
     "destCober":"America del Norte",
     "costPorDia":68,
     "logo":"logos/assist_travel_logo.webp",
-    "detalle":"/detalles/assistravel.jpeg"
+    "detalle":"detalles/assistravel.jpeg"
 },
 {
     "id":21,
@@ -186,7 +186,7 @@
     "destCober":"Caribe",
     "costPorDia":48,
     "logo":"logos/assist_travel_logo.webp",
-    "detalle":"/detalles/assistravel.jpeg"
+    "detalle":"detalles/assistravel.jpeg"
 },
 {
     "id":22,
@@ -195,7 +195,7 @@
     "destCober": "Asia",
     "costPorDia":78,
     "logo":"logos/assist_travel_logo.webp",
-    "detalle":"/detalles/assistravel.jpeg"
+    "detalle":"detalles/assistravel.jpeg"
 },
 {
     "id":23,
@@ -204,7 +204,7 @@
     "destCober":"Africa",
     "costPorDia":88,
     "logo":"logos/assist_travel_logo.webp",
-    "detalle":"/detalles/assistravel.jpeg"
+    "detalle":"detalles/assistravel.jpeg"
 },
 {
     "id":24,
@@ -213,6 +213,6 @@
     "destCober":"Turismo Interno",
     "costPorDia":18,
     "logo":"logos/assist_travel_logo.webp",
-    "detalle":"/detalles/assistravel.jpeg"
+    "detalle":"detalles/assistravel.jpeg"
 }
 ]
