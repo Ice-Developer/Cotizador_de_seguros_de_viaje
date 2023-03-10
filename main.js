@@ -103,7 +103,7 @@ arrayClientes.forEach((cliente) => {
 };
 
 const productoArray =[];    
-const prodJson = "/productos.json"
+const prodJson = "productos.json"
 fetch(prodJson)
     .then(respuesta => respuesta.json())
     .then(datos=>{
