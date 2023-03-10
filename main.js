@@ -204,7 +204,7 @@ const prodFinal = () => {
                                 <h3>Precio: $${i.costPorDia}</h3>
                             </div>
                             <div class="btnProdSelect">
-                            <a class="btnPagar" href="pagos.html"><button class="btn1" id="boton${i.id}">Pagar</button></a>
+                            <a class="btnPagar" href="./pagos.html"><button class="btn1" id="boton${i.id}">Pagar</button></a>
                                 <button class="btn2" id="detalle${i.detalle}">Ver Detalle</button>
                             </div>
                             </div>
